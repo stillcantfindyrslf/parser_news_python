@@ -25,3 +25,5 @@ You also need to put your bot's token in `token = ""`, and your user id that you
 
 <h3>Work example</h3>
 In the picture below you can see examples of posts by this parser:
+
+![exmpl](images/work_example.png)
